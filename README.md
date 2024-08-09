@@ -7,3 +7,5 @@ https://github.com/michaldabrowski98/SkinVisionApp
 https://github.com/michaldabrowski98/SkinLesionAppBackend
 ### 3. Sztuczna sieć neuronowa do rozpoznawania obrazów
 https://github.com/michaldabrowski98/SkinLesionClassificationCNN
+### 4. Link do gotowego pliku APK
+https://drive.google.com/file/d/1odNP5PBq_hpr7nE0YCTjkzpTOvAruDKC/view
